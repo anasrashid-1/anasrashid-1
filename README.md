@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Anas Rashid</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Software Engineer from Kashmir🍁</h3>
 <img align="right" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
   <div>
