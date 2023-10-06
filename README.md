@@ -31,7 +31,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anasrashid-1" alt="anasrashid-1" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [Portfolio](anasrashid-1.github.io)
+- 👨‍💻 All of my projects are available at [My Portfolio](anasrashid-1.github.io)
 
 - 📫 How to reach me **anasrashid700@gmail.com**
 
