@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anas Rashid</h1>
-<h3 align="center">A passionate Software Developer from Kashmir🍁</h3>
+<h3 align="center">A passionate Software Developer from Kashmir 🍁</h3>
 <img align="right" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
 <div>
   <h1>About Me</h1>
-  <p>👋 Hi, I'm Anas Rashid, a passionate developer exploring the MERN (MongoDB, Express.js, React, Node.js) stack.</p>
+  <p>👋 Hi, I'm Anas Rashid, a passionate software developer with expertise in building robust, scalable web and mobile applications. I thrive on exploring new technologies and continuously improving my skills to deliver high-quality, efficient projects.</p>
 
   <h2>🚀 My Journey</h2>
   <p>I love web development and find the MERN stack fascinating for its versatility in building full-stack applications with JavaScript.</p>
