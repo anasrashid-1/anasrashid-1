@@ -11,7 +11,7 @@
 
   <h2>🎯 My Goals</h2>
   <p>My goal is to become a proficient MERN stack developer and create impactful web applications.</p>
-  -👨‍💻 All of my projects are available at <a href="https://anasrashid-1.github.io/" target="_blank">My Portfolio</a>
+  -👨‍💻 All of my projects are available at <a href="https://anasrashid.site" target="_blank">My Portfolio</a>
     <br>
   -📫 How to reach me **anasrashid700@gmail.com**
 
