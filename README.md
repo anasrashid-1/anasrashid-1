@@ -76,7 +76,8 @@ I enjoy working across the stack, building real-time systems, and integrating mo
 - MsSQL  
 
 ### ☁️ DevOps & Cloud
-- AWS (Cloud Practitioner)  
+- AWS (Cloud Practitioner)
+- Google Cloud Platform (GCP)  
 - Docker  
 - Cloudflare (deployment)  
 - CI/CD
