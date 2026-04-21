@@ -79,7 +79,7 @@ I enjoy working across the stack, building real-time systems, and integrating mo
 - AWS (Cloud Practitioner)  
 - Docker  
 - Cloudflare (deployment)  
-- CI/CD basics  
+- CI/CD
 
 ### 🔧 Other Tools
 - Git & GitHub  
