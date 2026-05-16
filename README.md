@@ -27,7 +27,7 @@ I enjoy working across the stack, building real-time systems, and integrating mo
 
 ## 🌐 Portfolio & Contact
 
-- 👨‍💻 Portfolio: https://anasrashid.site  
+- 👨‍💻 Portfolio: https://anasrashid.info  
 - 📫 Email: anasrashid700@gmail.com  
 
 ---
